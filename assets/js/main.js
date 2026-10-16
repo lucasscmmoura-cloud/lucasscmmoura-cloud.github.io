@@ -5,7 +5,7 @@
 document.addEventListener('DOMContentLoaded', () => {
   // Configurable default WhatsApp number for Alto Mourão
   // You can easily update this number whenever needed:
-  const DEFAULT_WHATSAPP = '5521999999999'; // Example: 55 + DDD + Telefone (Maricá/RJ usa DDD 21)
+  const DEFAULT_WHATSAPP = '5521992579028'; // Alto Mourão: (21) 99257-9028
 
   /* ==========================================================================
      1. Sticky Navbar & Scroll Effects
